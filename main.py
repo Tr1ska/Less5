@@ -1,5 +1,6 @@
 class Human:
     height = 180
+    gladness = 100
 
 class Student(Human):
     gladness=0
